@@ -27,5 +27,9 @@ dic来源:教育部闽南语字典 https://sutian.moe.edu.tw/zh-hant/siongkuants
 说文解字来源:https://github.com/shuowenjiezi/shuowen/blob/master
 
 
+##许可证
+
+该项目使用了shuowenjiezi/shuowen的说文解字数据库，在该数据库的主目录shuowen-master下保留了其Apache License。
+
 
 

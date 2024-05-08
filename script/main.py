@@ -12,7 +12,7 @@ dic_loc=path
 dic='dic.csv'
 file_name = path+file
 hokin_dic=pd.read_csv(dic_loc+dic,encoding='utf-8')
-shuowen_loc=path+'\\shuowen\\shuowen-master\\data\\'
+shuowen_loc=path+'\\shuowen-master\\data\\'
 
 
 if __name__=="__main__":
