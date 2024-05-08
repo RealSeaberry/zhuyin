@@ -29,7 +29,7 @@
 
 ##支持
 
-dic来源:教育部闽南语字典 https://sutian.moe.edu.tw/zh-hant/siongkuantsuguan/
+dic来源:教育部臺灣閩南語常用詞辭典 https://sutian.moe.edu.tw/zh-hant/siongkuantsuguan/
 
 说文解字来源:https://github.com/shuowenjiezi/shuowen/blob/master
 
